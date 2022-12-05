@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/idooriane/">
@@ -26,3 +23,6 @@ Hardworking college student with a motivated attitude, passionate about technolo
 ### :hammer_and_wrench: Skills :
 
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py,mysql,r,git,bash,arduino,visualstudio,eclipse,idea,vscode,linux,raspberrypi,ps,pr,github&theme=light)](https://skillicons.dev)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orianeido)](https://github.com/yushi1007)

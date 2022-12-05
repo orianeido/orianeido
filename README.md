@@ -25,4 +25,4 @@ Hardworking college student with a motivated attitude, passionate about technolo
 
 ### :hammer_and_wrench: Skills :
 
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,python,mysql,r,git,bash,arduino,visualstudio,eclipse,idea,linux,raspberrypi,ps,pr,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,java,py,mysql,r,git,bash,arduino,visualstudio,eclipse,idea,vscode,linux,raspberrypi,ps,pr,github&theme=light)](https://skillicons.dev)

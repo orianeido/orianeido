@@ -2,7 +2,7 @@
 ![Linkedin Banner](https://user-images.githubusercontent.com/8725819/203519969-794dfd67-b470-436f-9590-ebd97d291d7d.png)
 
 ### :man_technologist: About Me :
-- :telescope: I’m 3rd Year Software Engineering Student
+- :telescope: I’m 4th Year Software Engineering Student
 - :seedling: Looking for my next challenge!
 
 Hardworking college student with a motivated attitude, passionate about technology, innovative thinker and always ready to learn new things. I have excellent interpersonal communication, high responsibility and the ability to manage multiple tasks simultaneously.
